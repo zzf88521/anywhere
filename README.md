@@ -8,7 +8,16 @@
    <li style="list-style:none">自动打开默认浏览器，弹出页面</li>
 </ol>
 
+
+
+
+
 #####以上只是简单使用，下面整理一些常用的命令
+
+
+
+
+
 
 ```javascript
 	anywhere  //默认8000端口打开
