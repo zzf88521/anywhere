@@ -14,13 +14,13 @@
 
 
 ```javascript
-	anywhere  //默认8000端口打开
-	anywhere 8888 //使用8888端口号打开
-	anywhere -p 8888 //使用8888端口号打开
-	anywhere -s //只启动服务器，不打开浏览器
-	anywhere -h localhost //localhost 作为主机名
-	anywhere -d /home // /home 作为根
-	anywhere -f /index.html  // 使用 html5 history模式打开，并指定打开index.html
+anywhere  //默认8000端口打开
+anywhere 8888 //使用8888端口号打开
+anywhere -p 8888 //使用8888端口号打开
+anywhere -s //只启动服务器，不打开浏览器
+anywhere -h localhost //localhost 作为主机名
+anywhere -d /home // /home 作为根
+anywhere -f /index.html  // 使用 html5 history模式打开，并指定打开index.html
 ```
 
 
